@@ -2,8 +2,10 @@
 
 Hi, I am Diego Peinado and I come from Valencia, Spain. 
 
-- Currently working at EXFO Valencia as a SRE.
-- Currently learning how to develop blockchain applications.
+- Site Reliability Engineer at EXFO Valencia.
+- Technical Support Engineer at EXFO Valencia.
+- Learning how to develop blockchain applications.
+- Currently learning how to become IOS developer.
 
 ### About me 🙂
 
