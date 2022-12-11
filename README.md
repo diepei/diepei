@@ -2,10 +2,11 @@
 
 Hi, I am Diego Peinado and I come from Valencia, Spain. 
 
-- Site Reliability Engineer at EXFO Valencia.
-- Technical Support Engineer at EXFO Valencia.
+- Site Reliability Engineer | DevOps at Sofinco, Madrid, Spain.
+- Site Reliability Engineer at EXFO, Valencia, Spain.
+- Technical Support Engineer at EXFO, Valencia, Spain.
 - Learning how to develop blockchain applications.
-- Currently learning how to become IOS developer.
+- Learning how to develop IOS applications.
 
 ### About me 🙂
 
