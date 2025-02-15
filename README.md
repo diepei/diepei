@@ -6,7 +6,7 @@ Hi, I am Diego Peinado and I come from Valencia, Spain.
 - DevOps Lead @ Telefonica, Madrid
 
 ### Previous Experience
-- SRE & DevOps @ Sofinco, Madrid
+- SRE & DevOps @ Crédit Agricole, Madrid
 - Site Reliability Engineer @ EXFO, Valencia
 - Technical Support Engineer @ EXFO, Valencia
 
