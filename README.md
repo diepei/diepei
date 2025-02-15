@@ -2,13 +2,21 @@
 
 Hi, I am Diego Peinado and I come from Valencia, Spain. 
 
-- DevOps Lead at Telefonica, Madrid, Spain.
-- Site Reliability Engineer | DevOps at Sofinco, Madrid, Spain.
-- Site Reliability Engineer at EXFO, Valencia, Spain.
-- Technical Support Engineer at EXFO, Valencia, Spain.
-- Always learning.
+### Current Role
+- DevOps Lead @ Telefonica, Madrid
+
+### Previous Experience
+- SRE & DevOps @ Sofinco, Madrid
+- Site Reliability Engineer @ EXFO, Valencia
+- Technical Support Engineer @ EXFO, Valencia
 
 ### About me 🙂
 
-- Passionate about eating at good restaurants and tasting wine. 🍷
-- Expierenced music industry producer. Find some of my works on [Genius](https://genius.com/artists/Dp-soundz) 🎹📀
+#### Beyond Tech 🍷
+When not immersed in DevOps, you'll find me exploring the culinary scene and discovering new wines.
+
+#### Music 🎹📀
+Expierenced music industry producer. Find some of my works on [Genius](https://genius.com/artists/Dp-soundz) 
+
+---
+*"Always learning, always innovating"* 🚀
