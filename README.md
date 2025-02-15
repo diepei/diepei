@@ -10,5 +10,5 @@ Hi, I am Diego Peinado and I come from Valencia, Spain.
 
 ### About me 🙂
 
-- Passionate about electronics and code. 💻
+- Passionate about eating at good restaurants and tasting wine. 🍷
 - Expierenced music industry producer. Find some of my works on [Genius](https://genius.com/artists/Dp-soundz) 🎹📀
