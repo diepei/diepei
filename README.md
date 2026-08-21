@@ -9,7 +9,7 @@
 
 ---
 
-## Support Me
+## 💖 Support Me
 
 If you find my work useful, you can support me with a small donation.
 
