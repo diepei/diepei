@@ -4,8 +4,8 @@
 
 ## 🔗 Latest Build
 
-- <img width="14" height="24" alt="FlexYourSpotify" src="./assets/Buildicon/flex-your-spotify.svg" /> **[FlexYourSpotify](https://flexyourspotify.vercel.app/)** - Flex Your Spotify Song Streams on Social. Generate. Download. Share.
-- 🌱 **[ChiaFarmWidget](https://github.com/diepei/ChiaFarmWidget)** - Monitor your Chia farm at a glance with an iPhone widget and lightweight Windows agent.
+- <img width="14" height="24" alt="FlexYourSpotify" src="./assets/Buildicon/flex-your-spotify.svg" /> **[Spotify Aura](https://spotifyaura.diegopeinado.es/)** - Flex Your Spotify Song Streams on Social. Generate. Download. Share.
+- 🌱 **[Chia Farm Widget](https://github.com/diepei/ChiaFarmWidget)** - Monitor your Chia farm at a glance with an iPhone widget and lightweight Windows agent.
 
 ---
 
