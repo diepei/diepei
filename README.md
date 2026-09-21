@@ -4,7 +4,9 @@
 
 ## 🔗 Latest Build
 
-- <img width="14" height="24" alt="Spotify Aura" src="./assets/Buildicon/spotify-aura.svg" /> **[Spotify Aura](https://spotifyaura.diegopeinado.es/)** - Flex Your Spotify Song Streams on Social. Generate. Download. Share.
+- <img width="14" height="24" alt="Spotify Aura" src="./assets/Buildicon/spotify-aura.svg" /> **[Spotify Aura](https://spotifyaura.diegopeinado.es/)** - Farm Aura From Your Spotify Song Streams.
+- 🍯 **[Naturvimiel](https://naturvimiel.es/)** - Modern, minimalist online store for natural honey, built around a beekeeper-to-customer experience.
+- 👁 **[Hdito](https://hectordito.diegopeinado.es/)** - Portfolio website for Hdito.
 - 🌱 **[Chia Farm Widget](https://github.com/diepei/ChiaFarmWidget)** - Monitor your Chia farm at a glance with an iPhone widget and lightweight Windows agent.
 
 ---
