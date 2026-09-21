@@ -2,7 +2,15 @@
 
 ---
 
-![This is Diego — software engineer and SaaS builder](./assets/intro.svg)
+<table>
+  <tr>
+    <td width="100%">
+      <h3>This is Diego</h3>
+      <p>I'm a software engineer who designs, and a design engineer who builds.</p>
+      <blockquote>Building SaaS products and turning ideas into tech businesses.</blockquote>
+    </td>
+  </tr>
+</table>
 
 ---
 
