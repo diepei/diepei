@@ -2,6 +2,10 @@
 
 ---
 
+![This is Diego — software engineer and SaaS builder](./assets/intro.svg)
+
+---
+
 ## 🔗 Latest Build
 
 - <img width="14" height="24" alt="Spotify Aura" src="./assets/Buildicon/spotify-aura.svg" /> **[Spotify Aura](https://spotifyaura.diegopeinado.es/)** - Farm Aura From Your Spotify Song Streams.
