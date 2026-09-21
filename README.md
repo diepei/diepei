@@ -16,10 +16,10 @@
 
 ## 🔗 Latest Build
 
-- <img width="14" height="24" alt="Spotify Aura" src="./assets/Buildicon/spotify-aura.svg" /> **[Spotify Aura](https://spotifyaura.diegopeinado.es/)** - Farm Aura From Your Spotify Song Streams.
+- <img width="14" height="24" alt="Spotify Aura" src="./assets/Buildicon/spotify-aura.svg" /> **[Spotify Aura](https://spotifyaura.diegopeinado.es/)** - Farm aura from your Spotify song streams.
 - 🍯 **[Naturvimiel](https://naturvimiel.es/)** - Modern, minimalist online store for natural honey, built around a beekeeper-to-customer experience.
-- 👁 **[Hdito](https://hectordito.diegopeinado.es/)** - Portfolio website for Hdito.
-- 🎹 **[Diego Peinado](https://diegopeinado.es/)** - Professional music services website for Audio Branding, Artist Production, and Film & Media Scoring.
+- 👁 **[Hdito](https://hectordito.diegopeinado.es/)** - Portfolio website for visual artist Hdito.
+- 🎹 **[Diego Peinado](https://diegopeinado.es/)** - Professional music services website for audio branding, artist production, and film & media scoring.
 - 🌱 **[Chia Farm Widget](https://github.com/diepei/ChiaFarmWidget)** - Monitor your Chia farm at a glance with an iPhone widget and lightweight Windows agent.
 
 ---
