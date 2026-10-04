@@ -16,8 +16,8 @@
 
 ## 🔗 Latest Build
 
-- <img width="18" height="17" alt="Neto" src="./assets/Buildicon/neto.svg" /> **[Neto](https://neto.diegopeinado.es/)** - Calculate net salary in Spain and compare it with Andorra, Portugal and France.
 - <img width="14" height="24" alt="Spotify Aura" src="./assets/Buildicon/spotify-aura.svg" /> **[Spotify Aura](https://spotifyaura.diegopeinado.es/)** - Farm aura from your Spotify song streams.
+- <img width="18" height="17" alt="Neto" src="./assets/Buildicon/neto.svg" /> **[Neto](https://neto.diegopeinado.es/)** - Calculate net salary in Spain and compare it with Andorra, Portugal and France.
 - <img width="24" height="16" alt="JOWI" src="./assets/Buildicon/jowimowi-white.png" /> **[Jowimowi](https://jowimowi.diegopeinado.es/)** - Movement education platform that helps people develop strength, flexibility, coordination, and body awareness.
 - 🍯 **[Naturvimiel](https://naturvimiel.es/)** - Modern, minimalist online store for natural honey, built around a beekeeper-to-customer experience.
 - 👁 **[Hdito](https://hectordito.diegopeinado.es/)** - Portfolio website for visual artist Hdito.
